@@ -1,4 +1,4 @@
-[200~# Privacy Policy — Gemini with Chen
+# Privacy Policy — Gemini with Chen
 
 **Last updated:** March 18, 2026
 
@@ -40,5 +40,5 @@ If this privacy policy is updated, the changes will be posted in this document w
 
 ## Contact
 
-If you have questions about this privacy policy, please open an issue on the [GitHub repository](https://github.com).
+If you have questions about this privacy policy, please open an issue.
 
